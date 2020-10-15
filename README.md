@@ -53,7 +53,9 @@ peerDependencies는 모듈 사용자가 이미 해당 모듈이 설치되어있�
 3. https://www.npmjs.com/settings/ch-custom-hook/members 과 같은 결과 확인
 
 ### npm에 로그인
+(bash)
 ```bash
+npm login
 Username: your username
 Password:
 Email: (this IS public) your email
