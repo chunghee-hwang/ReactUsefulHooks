@@ -1,0 +1,26 @@
+{
+  "name": "@ch-custom-hook/use-title",
+  "version": "1.0.0",
+  "description": "문서 타이틀을 변경할 수 있는 hook",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hch0821/ReactUsefulHooks.git"
+  },
+  "keywords": [
+    "ReactUsefulCustomHookLearnByNomadCoder"
+  ],
+  "author": "CH Hwang <hch0821@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/hch0821/ReactUsefulHooks/issues"
+  },
+  "homepage": "https://github.com/hch0821/ReactUsefulHooks#readme",
+  "peerDependencies": {
+    "react": "^16.14.0",
+    "react-dom": "^16.14.0"
+  }
+}
